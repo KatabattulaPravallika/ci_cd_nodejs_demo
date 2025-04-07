@@ -15,4 +15,4 @@ This project demonstrates a CI/CD pipeline using GitHub Actions and Docker.
 - Docker
 
 ## Author
-Your Name
+KatabattulaPravallik
